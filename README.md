@@ -62,7 +62,7 @@ And that's about it. A few things that you might find useful is that, we aren't 
 
 The HTML part would be pretty straight foreword. This deals with presnting you answer. We need a render that looks something like this...
 
-![HTML render](#)
+![HTML render](https://github.com/GLUG-REVA/SDP-Project/blob/master/images/Example.png)
 
 Now this required you to just Google for one tag in HTML that we haven't covered. Anyway we will be kind enough to provide you with a place where you can look for it.
 
