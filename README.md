@@ -78,7 +78,8 @@ And that's it. You are done with your project.
 
 This section has a set of rules that you need to follow:
 
--   Each and every person in the group must have their own repository.
+-   Each and every person in the group must have their own repository
+-   You are to solve only those questions that the set alloted to you has
 -   The answer to one question must be one commit, i.e. if there are three questions, your repository must have three commits
 -   On the day of presentation you will be asked to explain what you have done. So, you might as well know what you are doing so that you won't have a problem later.
 -   You can submit partial answers, although you will be scored accordingly
