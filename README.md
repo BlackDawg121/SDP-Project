@@ -1,10 +1,10 @@
 # SDP Project
 
-This will be the stage-two evaluation of the SDP on Open Source Tools. This document contains the details of the same. This project is group based, i.e. you will be working in groups. The project is designed in such a manner that, you will revise all the content that you've learnt during the 3 sessions and much more if you are willing to.
+This will be the stage-two evaluation of the SDP on Open Source Tools. This document contains the details to complete your stage-two project successfully. This project prerequisites you to form groups, i.e. you will be working in groups. The project is designed in such a manner that, you will revise all the content that you've learnt during the 3 sessions and much more if you are willing to.
 
 ## The Basics
 
-This will be a group based project. The project shall focus on key areas of the SDP sessions namely:
+The project shall focus on key areas of the SDP sessions namely:
 
 -   Python
 -   HTML
@@ -42,7 +42,7 @@ int main()
 }
 ```
 
-If you haven't already guessed it, well..., I am just copying a string from one location to another.
+If you haven't already guessed it, well, I am just copying a string from one location to another.
 
 Now the valid Python 3 code for the above C code would be:
 
@@ -54,7 +54,7 @@ b = copy.deepcopy()
 print("Destination string: " + b)
 ```
 
-And that's about it. A few things that you might find useful to remember is that, we aren't actually expecting that you convert every C instruction to a Python instruction. We just want a valid conversion that does the the same thing that previously the C code was doing.
+**_Hint: You can run the C code on your computer to figure out what it is doing to easily convert it to its corresponding Python script. Remember, you need not convert line by line. We expect an algorithm port from C to Python._**
 
 ### Part 2
 
@@ -106,3 +106,5 @@ We have listed some websites that you can visit if you get stuck anywhere:
 -   [HTML reference](https://www.w3schools.com/tags/default.asp)
 -   For python, you could just simply google your need and Google will point you in the right direction. [Python tutorials Point](https://www.tutorialspoint.com/python3/index.htm), [Stackoverflow](https://stackoverflow.com/) are some of the most trusted and used websites. If you are feeling adventurous you can seive through the [python3 documentation](https://docs.python.org/3/):stuck_out_tongue_closed_eyes::sunglasses:
 -   Please make sure that you google for python 3 instead fo python 2 as there are significant syntax changes and the scripts might not always be cross-compatible
+
+### **_Good luck, young ones!_**
