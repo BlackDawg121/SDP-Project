@@ -2,6 +2,8 @@
 
 This will be the stage-two evaluation of the SDP on Open Source Tools. This document contains the details to complete your stage-two project successfully. This project prerequisites you to form groups, i.e. you will be working in groups. The project is designed in such a manner that, you will revise all the content that you've learnt during the 3 sessions and much more if you are willing to.
 
+Make sure to read the entire README.md before you proceed.
+
 ## The Basics
 
 The project shall focus on key areas of the SDP sessions namely:
@@ -9,6 +11,19 @@ The project shall focus on key areas of the SDP sessions namely:
 -   Python
 -   HTML
 -   Git
+
+We recommend that you go through the "Before the project" section below to get up and running.
+
+## General rules
+
+This section has a set of rules that you need to follow:
+
+-   You need to form a team of 3-5 members
+-   The repository contails 5 sets of questions. You need to solve any 3 of your choice
+-   Each and every person in the group must have their own repository i.e, you can divide the questions amongst your team members but, make sure all of you have your own repositories with all the solutions in it
+-   The answer to one question must be one commit, i.e. if there are three questions, your repository must have three commits
+-   On the day of presentation you will be asked to explain what you have done. So, you might as well know what you are doing so that you won't have a problem later.
+-   You can submit partial answers, although you will be scored accordingly
 
 ## The Projectwork
 
@@ -54,7 +69,7 @@ b = copy.deepcopy()
 print("Destination string: " + b)
 ```
 
-**_Hint: You can run the C code on your computer to figure out what it is doing to easily convert it to its corresponding Python script. Remember, you need not convert line by line. We expect an algorithm port from C to Python._**
+**_Hint: You can run the C code on your computer to figure out what it is doing to easily convert it to its corresponding Python script. Remember, you need not convert line by line. We expect an algorithm port from C to Python. If you do not prefer the former approach, you can do it in your own way. _** :sunglasses:
 
 ### Part 2
 
@@ -74,15 +89,6 @@ The last and the simple part is to push your code to git. A caveat here is that 
 
 And that's it. You are done with your project.
 
-## General rules
-
-This section has a set of rules that you need to follow:
-
--   Each and every person in the group must have their own repository
--   You are to solve only those questions that the set alloted to you has
--   The answer to one question must be one commit, i.e. if there are three questions, your repository must have three commits
--   On the day of presentation you will be asked to explain what you have done. So, you might as well know what you are doing so that you won't have a problem later.
--   You can submit partial answers, although you will be scored accordingly
 
 ## Before the Project
 
@@ -107,4 +113,12 @@ We have listed some websites that you can visit if you get stuck anywhere:
 -   For python, you could just simply google your need and Google will point you in the right direction. [Python tutorials Point](https://www.tutorialspoint.com/python3/index.htm), [Stackoverflow](https://stackoverflow.com/) are some of the most trusted and used websites. If you are feeling adventurous you can seive through the [python3 documentation](https://docs.python.org/3/):stuck_out_tongue_closed_eyes::sunglasses:
 -   Please make sure that you google for python 3 instead fo python 2 as there are significant syntax changes and the scripts might not always be cross-compatible
 
-### **_Good luck, young ones!_**
+## By the way...
+
+#### Your evaluation date is on the 10th of March 2018.
+
+If you have any queries, you can reach us at:
+k.saisomanath@gmail.com
+akash.james2096@gmail.com
+
+### **_Good luck, padawans!_**
