@@ -89,7 +89,6 @@ The last and the simple part is to push your code to git. A caveat here is that 
 
 And that's it. You are done with your project.
 
-
 ## Before the Project
 
 We would just like to point out a few points before you start your project.
@@ -118,7 +117,7 @@ We have listed some websites that you can visit if you get stuck anywhere:
 #### Your evaluation date is on the 10th of March 2018.
 
 If you have any queries, you can reach us at:
-k.saisomanath@gmail.com
+k.saisomanath@gmail.com or
 akash.james2096@gmail.com
 
 ### **_Good luck, padawans!_**
