@@ -10,6 +10,7 @@ int main() {
     // n = n/10
     n /= 10;
     ++count;
-    return 0;
   }
+  printf("The count: %d\n", count);
+  return 0;
 }
