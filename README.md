@@ -69,7 +69,7 @@ b = copy.deepcopy()
 print("Destination string: " + b)
 ```
 
-**_Hint: You can run the C code on your computer to figure out what it is doing to easily convert it to its corresponding Python script. Remember, you need not convert line by line. We expect an algorithm port from C to Python. If you do not prefer the former approach, you can do it in your own way. _** :sunglasses:
+**Hint: You can run the C code on your computer to figure out what it is doing to easily convert it to its corresponding Python script. Remember, you need not convert line by line. We expect an algorithm port from C to Python. If you do not prefer the former approach, you can do it in your own way.** :sunglasses:
 
 ### Part 2
 
