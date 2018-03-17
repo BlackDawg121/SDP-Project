@@ -6,6 +6,8 @@ Make sure to read the entire README.md before you proceed.
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+## Table of Contents
+
 -   [The Basics](#the-basics)
 -   [General rules](#general-rules)
 -   [Before the Project](#before-the-project)
