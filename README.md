@@ -1,4 +1,4 @@
-# SDP Project
+# SDP-Project
 
 This will be the stage-two evaluation of the SDP on Open Source Tools. This document contains the details to complete your stage-two project successfully. This project prerequisites you to form groups, i.e. you will be working in groups. The project is designed in such a manner that, you will revise all the content that you've learnt during the 3 sessions and much more if you are willing to.
 
@@ -6,25 +6,20 @@ Make sure to read the entire README.md before you proceed.
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [SDP Project](#sdp-project)
-	- [The Basics](#the-basics)
-	- [General rules](#general-rules)
-	- [Before the Project](#before-the-project)
-		- [Setting-up Git on your system](#setting-up-git-on-your-system)
-		- [Some useful links and pointers](#some-useful-links-and-pointers)
-	- [The Projectwork](#the-projectwork)
-		- [Part 1](#part-1)
-- [include <stdio.h>](#include-stdioh)
-- [include <string.h>](#include-stringh)
-		- [Part 2](#part-2)
-		- [Part 3](#part-3)
-	- [Submission](#submission)
-		- [How do I submit?](#how-do-i-submit)
-		- [How is my project evaluated?](#how-is-my-project-evaluated)
-		- [Some secrets](#some-secrets)
-	- [By the way...](#by-the-way)
-			- [Your evaluation date is on the 7th April 2018.](#your-evaluation-date-is-on-the-7th-april-2018)
-			- [**_Good luck, padawans!_**](#good-luck-padawans)
+-   [The Basics](#the-basics)
+-   [General rules](#general-rules)
+-   [Before the Project](#before-the-project)
+    -   [Setting-up Git on your system](#setting-up-git-on-your-system)
+    -   [Some useful links and pointers](#some-useful-links-and-pointers)
+-   [The Projectwork](#the-projectwork)
+    -   [Part 1](#part-1)
+    -   [Part 2](#part-2)
+    -   [Part 3](#part-3)
+-   [Submission](#submission)
+    -   [How do I submit?](#how-do-i-submit)
+    -   [How is my project evaluated?](#how-is-my-project-evaluated)
+    -   [Some secrets](#some-secrets)
+-   [By the way...](#by-the-way)
 
 <!-- /TOC -->
 
@@ -167,10 +162,12 @@ I would like to share some secrets with you just since, you endured the pain and
 
 ## By the way...
 
-#### Your evaluation date is on the 7th April 2018.
+ **Your evaluation date is on the 7th April 2018.**
 
 If you have any queries, you can reach us at:
 k.saisomanath@gmail.com or
 akash.james2096@gmail.com
 
-#### **_Good luck, padawans!_**
+* * *
+
+ **_Good luck, padawans!_**
