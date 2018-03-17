@@ -25,6 +25,29 @@ This section has a set of rules that you need to follow:
 -   On the day of presentation you will be asked to explain what you have done. So, you might as well know what you are doing so that you won't have a problem later.
 -   You can submit partial answers, although you will be scored accordingly
 
+## Before the Project
+
+We would just like to point out a few points before you start your project.
+
+### Setting-up Git on your system
+
+We recommend that you work on Linux operating system, if for some unfortunate reasons this is not feasible, you can complete your project using [Git for Windows](https://gitforwindows.org/).
+
+For setting-up Git on Linux or macOS we recommend going through tutorials for respective operating systems.
+
+Look [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for instructions.
+
+**_Note: Please, read the instructions carefully before you execute them._**
+
+### Some useful links and pointers
+
+We have listed some websites that you can visit if you get stuck anywhere:
+
+-   [Git documentation](https://git-scm.com/book/en/v2)
+-   [HTML reference](https://www.w3schools.com/tags/default.asp)
+-   For python, you could just simply google your need and Google will point you in the right direction. [Python tutorials Point](https://www.tutorialspoint.com/python3/index.htm), [Stackoverflow](https://stackoverflow.com/) are some of the most trusted and used websites. If you are feeling adventurous you can seive through the [python3 documentation](https://docs.python.org/3/):stuck_out_tongue_closed_eyes::sunglasses:
+-   Please make sure that you google for python 3 instead fo python 2 as there are significant syntax changes and the scripts might not always be cross-compatible
+
 ## The Projectwork
 
 The project work has three parts to it. We will see them one by one now.
@@ -88,29 +111,6 @@ The last and the simple part is to push your code to git. A caveat here is that 
 * * *
 
 And that's it. You are done with your project.
-
-## Before the Project
-
-We would just like to point out a few points before you start your project.
-
-### Setting-up Git on your system
-
-We recommend that you work on Linux operating system, if for some unfortunate reasons this is not feasible, you can complete your project using [Git for Windows](https://gitforwindows.org/).
-
-For setting-up Git on Linux or macOS we recommend going through tutorials for respective operating systems.
-
-Look [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for instructions.
-
-**_Note: Please, read the instructions carefully before you execute them._**
-
-### Some useful links and pointers
-
-We have listed some websites that you can visit if you get stuck anywhere:
-
--   [Git documentation](https://git-scm.com/book/en/v2)
--   [HTML reference](https://www.w3schools.com/tags/default.asp)
--   For python, you could just simply google your need and Google will point you in the right direction. [Python tutorials Point](https://www.tutorialspoint.com/python3/index.htm), [Stackoverflow](https://stackoverflow.com/) are some of the most trusted and used websites. If you are feeling adventurous you can seive through the [python3 documentation](https://docs.python.org/3/):stuck_out_tongue_closed_eyes::sunglasses:
--   Please make sure that you google for python 3 instead fo python 2 as there are significant syntax changes and the scripts might not always be cross-compatible
 
 ## By the way...
 
