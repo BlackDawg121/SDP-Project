@@ -112,6 +112,35 @@ The last and the simple part is to push your code to git. A caveat here is that 
 
 And that's it. You are done with your project.
 
+## Submission
+
+Alright, congratulations on completing the Projectwork. This section will highlight as to how the
+the projet work should be submitted and how it shall be evaluated.
+
+### How do I submit?
+
+Well, you don't really need to submit us anything. Since you have pushed all the project work to
+your git repository online, you can access it so long as you don't forget your credentials.
+
+You will just walk on the day of submission and give us your Git username and we can see all
+the hard work that you have put in.
+
+### How is my project evaluated?
+
+_Hush, hush, this part is a secret._
+
+This is done so as to ensure everyone has the same rate of success.
+
+### Some secrets
+
+I would like to share some secrets with you just since, you endured the pain and read all the stuff above and that you care about learning.
+
+1.  On the day of evaluation you will be questioned about your project
+2.  You will be asked questions from all the toipcs that we have covered
+3.  Yes, you will be giving a viva-voce on the day(well technically anyway...). But, this will be like any other you had
+4.  If you feel that your questions were hard, feel proud since, that means that you are doing really well
+5.  Your evaluation won't last for more than 10 minutes
+
 ## By the way...
 
 #### Your evaluation date is on the 7th April 2018.
@@ -120,4 +149,4 @@ If you have any queries, you can reach us at:
 k.saisomanath@gmail.com or
 akash.james2096@gmail.com
 
-### **_Good luck, padawans!_**
+#### **_Good luck, padawans!_**
