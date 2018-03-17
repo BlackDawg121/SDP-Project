@@ -114,7 +114,7 @@ And that's it. You are done with your project.
 
 ## By the way...
 
-#### Your evaluation date is on the 10th of March 2018.
+#### Your evaluation date is on the 7th April 2018.
 
 If you have any queries, you can reach us at:
 k.saisomanath@gmail.com or
