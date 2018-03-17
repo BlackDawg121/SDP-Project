@@ -4,6 +4,26 @@ This will be the stage-two evaluation of the SDP on Open Source Tools. This docu
 
 Make sure to read the entire README.md before you proceed.
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+-   [SDP Project](#sdp-project)
+    		\- [The Basics](#the-basics)
+    		\- [General rules](#general-rules)
+    		\- [Before the Project](#before-the-project)
+    			\- [Setting-up Git on your system](#setting-up-git-on-your-system)
+    			\- [Some useful links and pointers](#some-useful-links-and-pointers)
+    		\- [The Projectwork](#the-projectwork)
+    			\- [Part 1](#part-1)
+    			\- [Part 2](#part-2)
+    			\- [Part 3](#part-3)
+    		\- [Submission](#submission)
+    			\- [How do I submit?](#how-do-i-submit)
+    			\- [How is my project evaluated?](#how-is-my-project-evaluated)
+    			\- [Some secrets](#some-secrets)
+    		\- [By the way...](#by-the-way)
+
+<!-- /TOC -->
+
 ## The Basics
 
 The project shall focus on key areas of the SDP sessions namely:
