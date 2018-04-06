@@ -164,8 +164,7 @@ I would like to share some secrets with you just since, you endured the pain and
 
 ## By the way...
 
- **Your evaluation date is on the 7th April 2018.**
-
+ **The evaluation has to postponed to later this month**
 If you have any queries, you can reach us at:
 k.saisomanath@gmail.com or
 akash.james2096@gmail.com
